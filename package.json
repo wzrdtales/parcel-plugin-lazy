@@ -1,15 +1,9 @@
 {
-  "name": "parcel-plugin-lazy",
+  "name": "parcel-plugin-lazy-wzrdtemp",
   "version": "0.0.3",
   "description": "Parcel plugin to support data-srcset and data-src",
   "main": "./index.js",
-  "keywords": [
-    "parcel",
-    "lazy",
-    "images",
-    "data-src",
-    "data-srcset"
-  ],
+  "keywords": ["parcel", "lazy", "images", "data-src", "data-srcset"],
   "author": "Mateusz Kwasniewski",
   "repository": {
     "type": "git",
